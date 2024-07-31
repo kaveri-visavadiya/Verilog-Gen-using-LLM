@@ -18,7 +18,7 @@ To see how well the LLMs performed on Verilog generation, we utilized a list of 
 
 ## Fine-tuning: 
 
-Fine-tuning involves adapting a pre-trained model to perform better on a specific task or dataset by updating its parameters through additional training. In our case, we focused on enhancing the model's ability to generate Verilog code descriptions based on provided prompts. Supervised fine-tuning (SFT) specifically refers to this process being guided by labeled data, where the model learns to produce accurate outputs by comparing its predictions to known correct answers and adjusting its weights accordingly. After fine-tuning on the curated dataset, Llama 3 8b has comparable accuracy to ChatGPT 3.5 in Verilog code generation (result link can't be disclosed yet, this is ongoing).
+Fine-tuning involves adapting a pre-trained model to perform better on a specific task or dataset by updating its parameters through additional training. In our case, we focused on enhancing the model's ability to generate Verilog code descriptions based on provided prompts. Supervised fine-tuning (SFT) specifically refers to this process being guided by labeled data, where the model learns to produce accurate outputs by comparing its predictions to known correct answers and adjusting its weights accordingly. After fine-tuning on the curated dataset, Llama 3 8b has [comparable accuracy](https://docs.google.com/spreadsheets/d/1rcISU2mhBm3E-Ebwqjsnpcr4wumSnScwCmrlMpcCnAo/edit?usp=sharing) to ChatGPT 3.5 in Verilog code generation.
 
 ### Kaggle codes:
 
