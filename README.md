@@ -29,7 +29,7 @@ The following Kaggle scripts perform inference on the NYU dataset. This was a pr
 
 ## Fine-tuning: 
 
-Fine-tuning involves adapting a pre-trained model to perform better on a specific task or dataset by updating its parameters through additional training. In our case, we focused on enhancing the model's ability to generate Verilog code descriptions based on provided prompts. Supervised fine-tuning (SFT) specifically refers to this process being guided by labeled data, where the model learns to produce accurate outputs by comparing its predictions to known correct answers and adjusting its weights accordingly. 
+Fine-tuning involves adapting a pre-trained model to perform better on a specific task or dataset by updating its parameters through additional training. Supervised fine-tuning (SFT) specifically refers to this process being guided by labeled data, where the model learns to produce accurate outputs by comparing its predictions to known correct answers and adjusting its weights accordingly. In our case, we focused on enhancing the model's ability to generate Verilog code descriptions based on provided prompts.
 
 After performing supervised fine-tuning on the curated dataset (as mentioned above, with 8k synthesizable codes and their corresponding inferred descriptions), Llama 3 8b has [comparable accuracy](https://docs.google.com/spreadsheets/d/1rcISU2mhBm3E-Ebwqjsnpcr4wumSnScwCmrlMpcCnAo/edit?usp=sharing) to ChatGPT 3.5 in Verilog code generation.
 
