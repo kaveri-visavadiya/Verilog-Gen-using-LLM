@@ -1,6 +1,6 @@
 # Verilog-Gen-using-LLM
 
-This repository contains a Verilog dataset and (Kaggle hyperlinks to) Python scripts for inferring from and fine-tuning chat versions of open-source LLMs - [Gemma 2b](https://huggingface.co/google/gemma-2b-it), [Gemma 7b](https://huggingface.co/google/gemma-7b-it), [Llama 3 8b](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and [Llama 2 7b](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) using common Hugging Face libraries. The codes are hosted on [Kaggle](https://www.kaggle.com/kaverivisavadiya/code). I started contributing to this project as part of my summer project in June-July '24 under Prof. Joycee Mekie at IIT Gandhinagar.
+This repository contains a Verilog dataset and (Kaggle hyperlinks to) Python scripts for inferring from and fine-tuning chat versions of open-source LLMs - [Gemma 2b](https://huggingface.co/google/gemma-2b-it), [Gemma 7b](https://huggingface.co/google/gemma-7b-it), [Llama 3 8b](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) and [Llama 2 7b](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf) using common Hugging Face libraries. The codes are hosted on [Kaggle](https://www.kaggle.com/kaverivisavadiya/code). I contributed to this project as part of my summer project in June-July '24 under Prof. Joycee Mekie at IIT Gandhinagar.
 
 ## Dataset: 
 
